@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DECLARE>
+<PhysicalColumn name="COUNTRY_ID_1" parentName="&quot;ORCL&quot;..&quot;SH&quot;.&quot;D3 CUSTOMERS&quot;" parentId="3001:173" parentUid="80000000-9e55-15dc-806e-0a0a0a0a0000" id="3003:174" uid="80000001-9e55-15dc-806e-0a0a0a0a0000" dataType="DOUBLE" precision="22" rowCount="19.0" lastUpdated="2016-06-28 19:00:37" specialType="none">
+<SourceColumn>
+<RefPhysicalColumn id="3003:12" uid="00000002-9e0c-15dc-806e-0a0a0a0a0000" qualifiedName="&quot;ORCL&quot;..&quot;SH&quot;.&quot;CUSTOMER&quot;.&quot;COUNTRY_ID_1&quot;"/>
+</SourceColumn>
+</PhysicalColumn>
+
+<PhysicalColumn name="COUNTRY_ID_1" parentName="&quot;ORCL&quot;..&quot;SH&quot;.&quot;CUSTOMER&quot;" parentId="3001:11" parentUid="00000001-9e0c-15dc-806e-0a0a0a0a0000" id="3003:12" uid="00000002-9e0c-15dc-806e-0a0a0a0a0000" dataType="DOUBLE" precision="22" rowCount="19.0" lastUpdated="2016-06-28 19:00:37" specialType="none">
+</PhysicalColumn>
+
+</DECLARE>
+</Repository>
